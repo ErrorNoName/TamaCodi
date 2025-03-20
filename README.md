@@ -11,3 +11,5 @@ npm install
 ```bash
 npm start dev
 ```
+
+Open : http://localhost:5173/
