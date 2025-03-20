@@ -13,3 +13,4 @@ npm start dev
 ```
 
 Open : http://localhost:5173/
+Or https://merry-queijadas-0de30e.netlify.app
